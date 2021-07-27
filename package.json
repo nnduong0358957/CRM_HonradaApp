@@ -1,0 +1,23 @@
+{
+    "dependencies": {
+        "@airtable/blocks": "1.7.2",
+        "date-fns": "^2.22.1",
+        "moment": "^2.29.1",
+        "react": "^16.14.0",
+        "react-date-range": "^1.1.4",
+        "react-datepicker": "^4.1.1",
+        "react-dom": "^16.13.0",
+        "react-select": "^4.3.1",
+        "react-time-picker": "^4.3.0"
+    },
+    "devDependencies": {
+        "babel-plugin-css-modules-transform": "^1.6.2",
+        "css-loader": "^5.2.6",
+        "eslint": "^6.8.0",
+        "eslint-plugin-react": "^7.18.3",
+        "eslint-plugin-react-hooks": "^2.5.0"
+    },
+    "scripts": {
+        "lint": "eslint frontend"
+    }
+}
